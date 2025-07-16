@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Todd_Dube-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christophermulder/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christophermulder/)
 [![GitHub followers](https://img.shields.io/github/followers/muldercw?style=for-the-badge&logo=github)](https://github.com/muldercw)
 [![Profile Views](https://komarev.com/ghpvc/?username=muldercw&style=for-the-badge&color=brightgreen)](https://github.com/muldercw)
   
