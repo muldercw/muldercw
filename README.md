@@ -8,8 +8,6 @@
   
 </div>
 
-## About Me
-
 Simply put, I solve problems.
 
 <div align="center">
@@ -18,8 +16,6 @@ Simply put, I solve problems.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muldercw/muldercw/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-## 📈 GitHub Stats
 
 <div align="center">
   <picture>
