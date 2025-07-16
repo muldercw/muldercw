@@ -8,7 +8,6 @@
   
 </div>
 
-Simply put, I solve problems.
 
 <div align="center">
   <picture>
@@ -27,7 +26,6 @@ Simply put, I solve problems.
 
 </div>
 
-## Let's Connect!
 
 <div align="center">
   
