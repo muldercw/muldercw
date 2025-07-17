@@ -8,26 +8,12 @@
   
 </div>
 
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muldercw/muldercw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muldercw/muldercw/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true&theme=radical&border_color=30A3DC&bg_color=0D1117" media="(prefers-color-scheme: dark)"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme:no-preference)"/>
     <img src="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true" />
   </picture>
-
-
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muldercw&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
@@ -39,6 +25,11 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true" />
 </picture>
+
+</div>
+
+
+
 
 
 <div align="center">
