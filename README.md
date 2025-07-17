@@ -27,25 +27,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muldercw&layout=compact" alt="Top Languages" />
   </picture>
   
-  <!-- Streak Stats -->
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=muldercw&theme=radical&border=30A3DC&background=0D1117" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=muldercw&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=muldercw" alt="GitHub Streak" />
-  </picture>
-  
-  <!-- Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=muldercw&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  
 </div>
 
 <div align="center">
   <h2>🏆 Achievements & Highlights</h2>
   <ul>
-    <li>Developed <strong>Clarifai-Model-Deployment</strong>: A tool to export, format, deploy, and test models from the Clarifai platform. ⭐</li>
-    <li>Contributed to open-source projects in video playback, news extraction, geo-search tools, Instagram data grabbing, and stock prediction using sentiment analysis.</li>
     <li>Working at Clarifai, advancing AI and machine learning solutions.</li>
-    <li>Active in forking and enhancing repositories for better functionality in Python-based tools.</li>
     <li>Building a portfolio focused on AI, data processing, and multimedia applications.</li>
   </ul>
 </div>
