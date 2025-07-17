@@ -19,7 +19,7 @@
     <source srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
     <img src="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true" alt="GitHub Stats" />
   </picture>
-  
+  <br></br>
   <!-- Top Languages Card -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muldercw&layout=compact&theme=radical&border_color=30A3DC&bg_color=0D1117" media="(prefers-color-scheme: dark)"/>
@@ -29,19 +29,6 @@
   
 </div>
 
-<div align="center">
-  <h2>🏆 Achievements & Highlights</h2>
-  <ul>
-    <li>Working at Clarifai, advancing AI and machine learning solutions.</li>
-    <li>Building a portfolio focused on AI, data processing, and multimedia applications.</li>
-  </ul>
-</div>
-
-<div align="center">
-  <h2>🛠️ Skills & Technologies</h2>
-  <p>Based on my projects: Python, AI/ML (Clarifai, Sentiment Analysis), Data Extraction (News, Instagram, Geo-Search), Stock Prediction, Video Modules.</p>
-  <img src="https://skillicons.dev/icons?i=python,github,git,ai,ml" alt="Skills Icons" />
-</div>
 
 <p align="center">
   <i>Credits: Stats provided by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>, and <a href="https://github.com/ryo-ma/github-profile-trophy">profile-trophy</a>.</i>
