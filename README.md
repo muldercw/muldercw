@@ -1,33 +1,61 @@
-
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christophermulder/)
-[![GitHub followers](https://img.shields.io/github/followers/muldercw?style=for-the-badge&logo=github)](https://github.com/muldercw)
-[![Profile Views](https://komarev.com/ghpvc/?username=muldercw&style=for-the-badge&color=brightgreen)](https://github.com/muldercw)
+  <h1>👋 Hi, I'm Chris Mulder!</h1>
+  <p><em>Multitasking pro: code, coffee, chaos. 🚀 Passionate about AI, data extraction, and building innovative tools at Clarifai.</em></p>
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <strong>Connect with me:</strong>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christophermulder/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/muldercw)
+  [![Profile Views](https://komarev.com/ghpvc/?username=muldercw&style=for-the-badge&color=brightgreen)](https://github.com/muldercw)
   
 </div>
 
 <div align="center">
+  <h2>🌟 My GitHub Stats & Achievements</h2>
+  
+  <!-- GitHub Stats Card -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&show_icons=true&theme=radical&border_color=30A3DC&bg_color=0D1117" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme:no-preference)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&border_color=30A3DC&bg_color=0D1117" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true" alt="GitHub Stats" />
   </picture>
-
+  
+  <!-- Top Languages Card -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muldercw&layout=compact&theme=radical&border_color=30A3DC&bg_color=0D1117" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muldercw&layout=compact&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muldercw&layout=compact" alt="Top Languages" />
+  </picture>
+  
+  <!-- Streak Stats -->
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=muldercw&theme=radical&border=30A3DC&background=0D1117" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=muldercw&theme=buefy" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=muldercw" alt="GitHub Streak" />
+  </picture>
+  
+  <!-- Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=muldercw&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
 </div>
 
-
-
-
+<div align="center">
+  <h2>🏆 Achievements & Highlights</h2>
+  <ul>
+    <li>Developed <strong>Clarifai-Model-Deployment</strong>: A tool to export, format, deploy, and test models from the Clarifai platform. ⭐</li>
+    <li>Contributed to open-source projects in video playback, news extraction, geo-search tools, Instagram data grabbing, and stock prediction using sentiment analysis.</li>
+    <li>Working at Clarifai, advancing AI and machine learning solutions.</li>
+    <li>Active in forking and enhancing repositories for better functionality in Python-based tools.</li>
+    <li>Building a portfolio focused on AI, data processing, and multimedia applications.</li>
+  </ul>
+</div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christophermulder/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/muldercw)
-  
+  <h2>🛠️ Skills & Technologies</h2>
+  <p>Based on my projects: Python, AI/ML (Clarifai, Sentiment Analysis), Data Extraction (News, Instagram, Geo-Search), Stock Prediction, Video Modules.</p>
+  <img src="https://skillicons.dev/icons?i=python,github,git,ai,ml" alt="Skills Icons" />
 </div>
 
 <p align="center">
-  <i>Credits: Stats provided by <a href="https://github.com/muldercw/github-readme-stats">github-readme-stats</a></i>
+  <i>Credits: Stats provided by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>, and <a href="https://github.com/ryo-ma/github-profile-trophy">profile-trophy</a>.</i>
 </p>
