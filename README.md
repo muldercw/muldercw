@@ -26,6 +26,20 @@
 
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muldercw&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<picture>
+  <source
+    srcset="[https://github-readme-stats.vercel.app/api?username=muldercw&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muldercw&show_icons=true" />
+</picture>
+
 
 <div align="center">
   
@@ -35,5 +49,5 @@
 </div>
 
 <p align="center">
-  <i>Credits: Stats provided by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></i>
+  <i>Credits: Stats provided by <a href="https://github.com/muldercw/github-readme-stats">github-readme-stats</a></i>
 </p>
