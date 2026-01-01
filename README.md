@@ -61,7 +61,7 @@ gantt
     Algorithm Development | Financial Intelligence :2014-01, 2015-04
 
     section Mission Essential Personnel
-    Senior Irregular Warfare Analyst       :2012-08, 2014-01
+    Senior Irregular Warfare Analyst       :2013-08, 2014-01
 
     section BAE Systems
     Geospatial Division Lead - CJTF Paladin :2012-10, 2013-06
