@@ -21,10 +21,10 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark" />
+    <img src="https://img.shields.io/badge/Motorcross-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Motorcross" />
     <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
     <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-    <img src="https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="Agent Frameworks" />
+    <img src="https://img.shields.io/badge/Agent%20Frameworks-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="Agent Frameworks" />
     <img src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
     <!-- Expanded based on LinkedIn skills -->
   </p>
