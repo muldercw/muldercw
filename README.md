@@ -39,7 +39,7 @@ gantt
     title       My Career Timeline
 
     section Clarifai
-    Director of Field Engineering          :2025-03, 2026-01
+    Director of Field Engineering          :2025-03, 2026-05
     Senior Manager of Field Engineering    :2023-11, 2025-03
 
     section Raytheon Technologies
