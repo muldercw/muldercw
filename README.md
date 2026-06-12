@@ -38,6 +38,9 @@ gantt
     axisFormat  %Y
     title       My Career Timeline
 
+    section Nebius
+    Head of Engineering - AI R&D    :2026-06, 2026-12
+
     section Clarifai
     Director of Field Engineering          :2025-03, 2026-05
     Senior Manager of Field Engineering    :2023-11, 2025-03
