@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Chris Mulder!</h1>
-  <p><em>Multitasking pro: code, coffee, chaos. 🚀 Passionate about AI, data extraction, and building innovative tools at Clarifai.</em></p>
+  <p><em>Multitasking pro: code, coffee, chaos. 🚀 Passionate about AI, data extraction, and building innovative tools. Now at Nebius!</em></p>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <strong>Connect with me:</strong>
 
